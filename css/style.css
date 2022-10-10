@@ -1,0 +1,18 @@
+i {
+font-size: 2.73em;
+color: orange;
+border-radius: 60%;
+box-shadow: 0 0 2px #888;
+padding: 0.5em 0.6em;
+background-color: gray;
+}
+
+h1 {
+    margin: auto;
+    text-align: center;
+}
+
+hr {
+    width: 200px;
+    margin: 20px auto;
+}
